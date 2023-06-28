@@ -1,0 +1,10 @@
+#!/bin/bash
+MEMBERS=("glad")
+WORKDIR="/home/workspace"
+IMAGE_NAME="sungjae_test"
+IMAGE_TAG="0.0.1"
+CONTAINER_NAME="sungjae-transformer-test"
+USER="sungjae"
+GPUS="all"
+PROJECT_REPO_DIR="/raid/sungjae/transformer/"
+REMOVE_ON_END=false
